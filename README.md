@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there! I'm Binh 🚀✨  
 
-<!--
-**ch-binh/ch-binh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **embedded systems and IoT enthusiast** who loves building, breaking, and optimizing things—one line of firmware at a time. Passionate about **low-power Bluetooth, wearables, and self-sustaining smart systems**, I thrive at the intersection of hardware and software.  
 
-Here are some ideas to get you started:
+## 🔧 What I Do  
+- 🛠 **Firmware & Embedded Development** – Crafting efficient, real-time code for microcontrollers and SoCs.  
+- 📡 **Wireless Communication** – BLE, UART, and cloud-connected IoT solutions.  
+- ⚡ **Low-Power Optimization** – Squeezing performance while saving every µA.  
+- 🌞 **Renewable Energy & Sustainability** – Exploring solar-powered smart tech.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Up To  
+- **Hacking away** at embedded systems, learning Assembly, and fine-tuning Bluetooth stacks.  
+- **Building** a GUI for USB-UART communication (maybe with cloud integration 🤔).  
+- **Experimenting** with self-sustaining IoT and solar energy projects.  
+
+## 🤝 Let's Connect!  
+💬 Open to **collaborations, open-source contributions, and tech discussions**!  
+📩 Reach out at **pcbinh.3005@gmail.com**  
+🎵 Fun fact: I code best with **trap lofi beats** 🎧  
+
+> _"Every great project starts with a single line of code, "Hello Me"."_ ✨  
+
